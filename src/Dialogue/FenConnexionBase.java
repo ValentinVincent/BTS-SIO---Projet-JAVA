@@ -31,7 +31,7 @@ public class FenConnexionBase extends javax.swing.JFrame {
 
  
     @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents oui
     private void initComponents() {
 
         jLab_Ecran = new javax.swing.JLabel();
